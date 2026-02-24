@@ -224,5 +224,3 @@ Class: B
 Branch: CE
 Subject: Frameworks of Android Development
 Activity: ALA-2
-
-🎓 Your Submission Is Now Strong
